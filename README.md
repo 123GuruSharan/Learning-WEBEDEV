@@ -9,9 +9,9 @@ We’ll focus on revising all core JS topics we’ve learned and finish with a s
 
 ## 📅 7-Day Plan
 
-| **Day** | **Topic** | **Focus Points** | **Guru** | **Ravi** | **Sneha** |
+| **Day** | **Topic** | **Focus Points** | **Guru** | **Aman** | **Vaibhav** |
 |----------|------------|------------------|-----------|-----------|-----------|
-| 🗓️ Day 1 | Variables, Data Types & Operators | let, const, var, type conversion, operators | ✅ | ✅ | ✅ |
+| 🗓️ Day 1 | Variables, Data Types & Operators | let, const, var, type conversion, operators |  |  |  |
 | 🗓️ Day 2 | Conditionals & Loops | if-else, switch, for, while, pattern printing | ⏳ | ⏳ | ⏳ |
 | 🗓️ Day 3 | Arrays & Methods | map(), filter(), reduce(), find(), array of objects |  |  |  |
 | 🗓️ Day 4 | Objects & Nested Objects | object literals, loops, Object.keys(), deep access |  |  |  |
