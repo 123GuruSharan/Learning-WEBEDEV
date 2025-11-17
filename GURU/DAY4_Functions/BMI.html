@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const height = Number(prompt("Enter your height in meters:"));
+        const weight = Number(prompt("Enter your weight in kilograms:"));
+        console.log("Height: " + height + " m");
+        console.log("Weight: " + weight + " kg");   
+        
+        function calculateBMI(height, weight) {
+            return weight / (height * height);
+        }   
+        const bmi = calculateBMI(height, weight);
+        
+        console.log("Your BMI is: " + bmi.toFixed(2));  
+        console.log("BMI Categories:");
+        console.log("Underweight = <18.5");
+        console.log("Normal weight = 18.5–24.9");
+        console.log("Overweight = 25–29.9");
+        console.log("Obesity = BMI of 30 or greater");
+
+    </script>
+</body>
+</html>
