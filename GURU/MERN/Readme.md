@@ -3,11 +3,11 @@ A clean, minimal, beautifully structured roadmap for learning the MERN Stack.
 Designed for 3 students learning together.
 
 👥 Team
-🧑‍🎓 Student 1: __________________
+🧑‍🎓 Student 1: Guru Sharan
 
-🧑‍🎓 Student 2: __________________
+🧑‍🎓 Student 2: Aman Kumar
 
-🧑‍🎓 Student 3: __________________
+🧑‍🎓 Student 3: Om Prajapati
 
 🚀 What is MERN?
 Tech	Purpose
